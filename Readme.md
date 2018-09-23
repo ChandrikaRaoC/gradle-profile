@@ -34,7 +34,7 @@ There are totally 3 environments: local, dev, prod.
         java -jar /build/libs/gradle-profile-0.0.1-SNAPSHOT.jar
         ```
 
-        Now hit the base URL. We can see a welcome message along with environment(profile) name on which the server is running.
+        Now hit the base URL with port 9090. We can see a welcome message along with environment(profile) name on which the server is running.
 
 
 **Author**\
